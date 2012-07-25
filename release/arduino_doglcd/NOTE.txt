@@ -1,0 +1,2 @@
+This is an experimental version of M2TKLIB for the DogLcd library.
+The DogLcd library supports character LCDs.
